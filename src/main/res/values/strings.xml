@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">queryAndPath</string>
+    <string name="comment_text">Comment_text</string>
+    <string name="post_id">Post_id</string>
+    <string name="comment_mail">Comment_Mail</string>
+    <string name="comment_id">Comment Id</string>
+    <string name="username">UserName</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="query">Query</string>
+    <string name="path">Path</string>
+</resources>
